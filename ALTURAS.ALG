@@ -1,9 +1,5 @@
 Algoritmo "alturas"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 27/12/2021
+
 Var
 // Seção de Declarações das variáveis 
   n, i, cont_idade : inteiro
